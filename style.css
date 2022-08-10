@@ -2,15 +2,19 @@ body {
 	background-color: violet;
 }
 
+header, footer {
+	background-color: #611220;
+}
+
 h1 {
-	color: red;
+	color: #000000;
 	text-align: center;
 }
 
 b {
-	color:  blue;
+	color: #611220;
 	font-size: 30;
 }
 
-i { color: yellow; }
+i { color: #611220; }
 
