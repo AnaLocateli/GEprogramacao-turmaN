@@ -7,14 +7,23 @@ header, footer {
 }
 
 h1 {
-	color: #000000;
+	color: red;
 	text-align: center;
 }
 
 b {
-	color: #611220;
-	font-size: 30;
+	color: white;
+	font-size: 45;
 }
 
-i { color: #611220; }
+i { color: white; 
+font-size: 45;}
 
+p {
+	color: greenyellow;
+	font-size: 35;
+}
+
+img {
+	width: 25%;
+}
